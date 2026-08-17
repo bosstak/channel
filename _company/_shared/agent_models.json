@@ -1,0 +1,11 @@
+{
+  "ceo": "google/gemma-4-e4b:3",
+  "secretary": "google/gemma-4-e4b:3",
+  "youtube": "google/gemma-4-e4b:3",
+  "researcher": "google/gemma-4-e4b:3",
+  "business": "google/gemma-4-e4b:3",
+  "writer": "google/gemma-4-e4b:3",
+  "editor": "google/gemma-4-e4b:3",
+  "designer": "google/gemma-4-e4b:3",
+  "instagram": "google/gemma-4-e4b:3"
+}
