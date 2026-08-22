@@ -1,7 +1,7 @@
 {
   "ceo": "google/gemma-4-e4b:3",
   "secretary": "google/gemma-4-e4b:3",
-  "youtube": "google/gemma-4-e4b:3",
+  "youtube": "google/gemma-4-e4b",
   "researcher": "google/gemma-4-e4b:3",
   "business": "google/gemma-4-e4b:3",
   "writer": "google/gemma-4-e4b:3",
